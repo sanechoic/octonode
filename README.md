@@ -9,5 +9,4 @@ If you own an echo-dot or alexa or google-home device, you can control your prin
 Prerequisite:   Raspberry Pi 2 /3 / 3+
                 Node-Red https://nodered.org/docs/getting-started/installation
                   nodes to install:  dashboard, interval, string, alexa-home(optional)
-                
-               Octoprint on another Raspberry Pi https://octoprint.org/
+                Octoprint on another Raspberry Pi https://octoprint.org/
