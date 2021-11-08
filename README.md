@@ -1,4 +1,4 @@
-# octonode
+# Octonode
 This Repository shows you how to control and use octoprint with node-red.
 The octonode project uses the REST-API of Octoprint http://docs.octoprint.org/en/master/api/index.html
 to use for more reliable informathion gathering than mqtt-plugin.
